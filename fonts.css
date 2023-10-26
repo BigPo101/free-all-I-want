@@ -1,1 +1,9 @@
-
+@font-face {
+    font-family: 'custom-cursive';
+    src: url('.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.cursive {
+  font-family: "custom-cursive";
+}
